@@ -1,0 +1,19 @@
+What is CI/CD Pipeline?
+What is RabbitMQ and how to configure RabbitMQ in MicroService?
+How RabbitMQ is differ from Kafka?
+How to large dataset in Angular and React?
+Explain RxJS operator?
+What is Azure Devops?
+Alternative to Azure Devops?
+How to connect Github and Azure to Azure Devops?
+How to configure Azure Devops pipeline?
+How to continusly integrate and deploy to the production Azure site?
+What is CQRS pattern?
+What is MediatR pattern?
+Difference between in Monolithic and MicroService
+How to implement Lazy loading in Angular
+Difference between subject,behavioursubject,Asynsubject,RelaySubject,Observable?
+How to create custom CLI in Angural and react?
+What is Webpack and complete knowledge of Webpack?
+
+dotnet add Test/SimpleAPI.Tests/SimpleAPI.Tests.csproj reference SimpleAPI/SimpleAPI.csproj
